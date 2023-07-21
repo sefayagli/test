@@ -4,4 +4,15 @@ html{
 body{
     height: -webkit-fill-available;
     background-color: blue;
+    margin: 0;
+}
+.ana{
+    height: 59vh;
+    width: 80%;
+    background-color: red;
+}
+.dana{
+    height: 39vh;
+    width: 100%;
+    background-color: black;
 }
